@@ -29,4 +29,4 @@ hero = SuperHero(name='Питер Паркер', nickname='Человек-пау
 print(hero.name_print())
 hero.health_x2()
 print(str(hero))
-print(f'Длинна фразы: {len(hero.catchphrase)}')
+print(f'Длина фразы: {len(hero.catchphrase)}')
