@@ -84,6 +84,7 @@ joker = Villain(None, "Джокер", "Хитрость и химия", 50,
                 "хи-хи-хи", 50)
 
 
+
 def print_hero_info(hero_instance):
     print(hero_instance.name_print())
     hero_instance.health_x2()
